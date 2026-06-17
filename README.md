@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Python Full-Stack Developer** with deep expertise in **Odoo ERP** (v17). I architect and build enterprise-grade solutions — from custom Odoo modules and portal workflows to REST APIs and AI-powered integrations. I focus on solving real business problems: reducing license costs through smart portal designs, automating processes, and connecting systems.
+I'm a **Python Full-Stack Developer** with deep expertise in **Odoo ERP** (v14,v17). I architect and build enterprise-grade solutions — from custom Odoo modules and portal workflows to REST APIs and AI-powered integrations. I focus on solving real business problems: reducing license costs through smart portal designs, automating processes, and connecting systems.
 
 - 🔧 **25+ custom Odoo modules** deployed in production (AI chat, digital signatures, DMS, dashboards, PWA)
 - 🌐 **Full-stack Python**: Django REST Framework, Flask, Odoo controllers, JavaScript/SCSS frontends
