@@ -82,27 +82,16 @@ Tools:        XML-RPC · REST APIs · XLSX Report Engine · Digital Signatures
 |--------|----------|-------------|
 | `ai_chat` | AI | AI-powered chat integration in Odoo |
 | `digital_signature` | Document | Digital signature workflows |
-| `dms` | Document | Document management system |
 | `dashboard` | UI | Custom dashboard widgets |
 | `professional_registers` | Professional registers (multi-company) | Business |
-| `report_xlsx` | Reporting | Custom XLSX report engine |
 | `odoo_web_login` | Auth | Custom login page |
-| `web_pwa_oca` | Mobile | Progressive Web App for Odoo |
-| `web_notify` | UI | Advanced notification system |
 | `fuc_connector` | Integration | External system connector |
 | `conection_db` | Integration | External database connector |
 | `nomenclators` | Data | Nomenclature/code management |
 | `profile_location` | HR | Location-based profiles |
 | `security` | Security | Custom security module |
 | `notifications` | UI | Push notification system |
-| `mail_preview_base` | Communication | Enhanced email previews |
-| `muk_web_theme` | UI | Custom MUK web theme |
-| `theme_clean` | UI | Clean theme variant |
-| `theme_common` | UI | Shared theme components |
 | `website_aicros` | Web | Custom website for AiCros |
-| `website_animate` | Web | Animation components |
-| `web_responsive` | UI | Responsive design enhancements |
-| `web_drop_target` | UI | Drag and drop file uploads |
 | `invoice_xport` | Sales | Invoice data export wizards |
 | `portal_sales_management` | Sales | Portal-based sales ordering |
 | `l10n_co_pos_credit_remision` | Localization | Colombian POS credit and remission |
