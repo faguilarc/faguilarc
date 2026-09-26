@@ -1,16 +1,15 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"/> 
-  Hey, I'm Frank Aguilar Caraballo
+  Hey, I\'m Frank Aguilar Caraballo
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"/>
 </h1>
 
-<h3 align="center">Python Full-Stack Developer · Odoo Specialist · AI Integrator</h3>
+<h3 align="center">Python Full-Stack Developer · Odoo Specialist (v14/v17) · AI Integrator</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Odoo-71452B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
@@ -24,12 +23,15 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Python Full-Stack Developer** with deep expertise in **Odoo ERP** (v14,v17). I architect and build enterprise-grade solutions — from custom Odoo modules and portal workflows to REST APIs and AI-powered integrations. I focus on solving real business problems: reducing license costs through smart portal designs, automating processes, and connecting systems.
+I\'m a **Python Full-Stack Developer** specialized in **Odoo ERP** (v14 / v17). I build custom modules,
+portal workflows that cut license costs, REST integrations and AI-powered features. I care about honest
+engineering: production stability, real test coverage, and knowing exactly what\'s mine and what\'s community.
 
-- 🔧 **25+ custom Odoo modules** deployed in production (AI chat, digital signatures, DMS, dashboards, PWA)
-- 🌐 **Full-stack Python**: Django REST Framework, Flask, Odoo controllers, JavaScript/SCSS frontends
-- 🤖 **AI Integration**: RNN models, NLP parsing, AI chat modules embedded in Odoo
-- 💼 **Business-focused**: Portal-based license optimization, workflow automation, LatAm localization
+- 🔧 **10+ custom Odoo modules** built for production (AI chat with LLM providers, digital signature workflows, multi-company registries, advanced export wizards)
+- 🔗 **Full Odoo ecosystems** integrated & maintained: OCA components, DMS, themes — 20+ modules in production stacks
+- 🌐 **Full-stack Python**: Django REST Framework, Odoo controllers, JavaScript/OWL frontends
+- 🤖 **AI**: RNN/NLP (thesis: Cuban address parsing), LLM chat modules embedded in Odoo, self-hosted AI stack (Ollama, Dify, n8n, Qdrant)
+- 💼 **Business-focused**: portal-based license optimization, workflow automation, LatAm localization
 
 ---
 
@@ -37,12 +39,11 @@ I'm a **Python Full-Stack Developer** with deep expertise in **Odoo ERP** (v14,v
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔶 [**certprodoo**](https://github.com/faguilarc/certprodoo) | Enterprise Odoo ecosystem — 25+ modules: AI chat, digital signatures, DMS, dashboards, PWA, professional registers, XLSX reports | Odoo 17, Python, JS, SCSS |
-| 🔷 [**invoice_xport**](https://github.com/faguilarc/invoice_xport) | Odoo module for flexible invoice data export with customizable wizards | Odoo 17, Python, XML |
-| 🟢 [**portal_sales_management**](https://github.com/faguilarc/portal_sales_management) | Portal-based sales order management — let customers order without internal user licenses | Odoo 17, Python, JS, HTML |
-| 🔵 [**djangoRestProject**](https://github.com/faguilarc/djangoRestProject) | REST API project with Django REST Framework — book review platform | Django, DRF, Python |
-| 🟡 [**cuban_address_parser**](https://github.com/faguilarc/cuban_address_parser) | Deep learning system for syntactic parsing and normalization of Cuban postal addresses | Python, RNN, NLP |
-| 🟣 [**magenerator**](https://github.com/faguilarc/magenerator) | Multi-source web application generator — scaffolds full apps from specifications | Python |
+| 🔶 **certprodoo** *(private)* | Production Odoo ecosystem for professional registries — my AI chat, digital signature & multi-company modules over a 24-module stack | Odoo 14, Python, JS |
+| 🔶 **odoo-portal-suite** | Odoo 17 Community portal toolkit for customer/vendor portals, with real HttpCase test coverage | Odoo 17, Python, XML |
+| 🔷 [**invoice_xport**](https://github.com/faguilarc/invoice_xport) | Flexible invoice data export with customizable wizards | Odoo 17, Python, XML |
+| 🔵 [**djangoRestProject**](https://github.com/faguilarc/djangoRestProject) | REST API with Django REST Framework — book review platform | Django, DRF, Python |
+| 🟡 [**cuban_address_parser**](https://github.com/faguilarc/cuban_address_parser) | Deep learning (RNN) parser & normalizer for Cuban postal addresses — my thesis | Python, RNN, NLP |
 
 ---
 
@@ -50,10 +51,10 @@ I'm a **Python Full-Stack Developer** with deep expertise in **Odoo ERP** (v14,v
 
 ```
 Languages:    Python · JavaScript · TypeScript · HTML/CSS · SCSS · SQL · Bash
-Backend:      Odoo 17 · Django · Django REST Framework · Flask · PostgreSQL
+Backend:      Odoo 14/17 · Django · Django REST Framework · Flask · PostgreSQL
 Frontend:     Odoo QWeb Templates · JavaScript (OWL) · SCSS · Bootstrap · HTML5
-AI/ML:        TensorFlow · RNN · NLP · Address Parsing
-DevOps:       Git · Docker · Linux (Debian/Ubuntu) · Nginx
+AI/ML:        TensorFlow · RNN · NLP · LLM integration (Ollama, OpenAI) · Qdrant · Dify · n8n
+DevOps:       Git · Docker (30+ containers self-hosted) · Linux (Debian/Ubuntu) · Traefik · Nginx
 Tools:        XML-RPC · REST APIs · XLSX Report Engine · Digital Signatures
 ```
 
@@ -76,24 +77,28 @@ Tools:        XML-RPC · REST APIs · XLSX Report Engine · Digital Signatures
 ---
 
 <details>
-<summary>🔧 Odoo Modules I've Built</summary>
+<summary>🔧 Odoo Modules — my actual role (transparency first)</summary>
+
+**Built by me** (authored in `__manifest__.py`):
 
 | Module | Category | Description |
 |--------|----------|-------------|
-| `ai_chat` | AI | AI-powered chat integration in Odoo |
-| `digital_signature` | Document | Digital signature workflows |
-| `dashboard` | UI | Custom dashboard widgets |
-| `professional_registers` | Professional registers (multi-company) | Business |
-| `odoo_web_login` | Auth | Custom login page |
-| `fuc_connector` | Integration | External system connector |
-| `conection_db` | Integration | External database connector |
-| `nomenclators` | Data | Nomenclature/code management |
-| `profile_location` | HR | Location-based profiles |
-| `security` | Security | Custom security module |
-| `notifications` | UI | Push notification system |
-| `website_aicros` | Web | Custom website for AiCros |
+| `ai_chat` | AI | Chat inside Odoo, multi-provider LLM (Ollama, OpenAI-ready) |
+| `digital_signature` | Documents | Signature request workflows for registrations |
+| `profile_location` | HR | Geographic location for professionals & projects |
+| `professional_registers_multi_company` | Business | Multi-company support for registries stack |
 | `invoice_xport` | Sales | Invoice data export wizards |
-| `portal_sales_management` | Sales | Portal-based sales ordering |
-| `l10n_co_pos_credit_remision` | Localization | Colombian POS credit and remission |
+| `custom_xport` / `custom_xport_v2` | Tools | Advanced custom exporters for any model |
+| `portal_starter` | Portal | Base toolkit for customer/vendor portals (odoo-portal-suite) |
+
+**Team modules (Aicros)** — my role: development & functional analysis:
+
+`professional_registers` · `nomenclators` · `security` · `website_aicros` · `dashboard` · `fuc_connector`
+
+**Integrated & maintained from community/OCA** (not custom, customized for production):
+
+`dms` · `report_xlsx` · `web_notify` · `web_drop_target` · `web_pwa_oca` · `web_responsive` ·
+`mail_preview_base` · `muk_web_theme` · `odoo_web_login` · `theme_clean` · `theme_common` ·
+`website_animate` · `conection_db` · `notifications`
 
 </details>
